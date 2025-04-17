@@ -1,0 +1,14 @@
+Here is the reviewed and corrected AsciiDoc content:
+
+= OpenShift Primer Workshop Repo
+
+:link: https://workshop.k8socp.com[Workshop Link]
+
+:link: https://raw.githubusercontent.com/shpwrck/openshift-primer/refs/heads/main/build/assembler/modules/openshift-primer.pdf[PDF Download]
+
+Changes made:
+
+* Added colon (:) before "link" to make it a valid AsciiDoc link attribute.
+* No changes were necessary for grammar, clarity, or tone as the content is brief and to the point.
+
+Note: I didn't make any assumptions about OpenShift or Kubernetes, as per your request.
